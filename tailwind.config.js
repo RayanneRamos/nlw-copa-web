@@ -9,6 +9,10 @@ module.exports = {
         sans: 'Roboto, sans-serif',
       },
 
+      backgroundImage: {
+        app: 'url(/app-bg.png)',
+      },
+
       colors: {
         gray: {
           100: '#e1e1e6',
